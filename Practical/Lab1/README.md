@@ -1,1 +1,1 @@
-git coomand
+git command
